@@ -14,7 +14,7 @@ const Home: React.FC = () => {
             if (chars[i] !== hiddenChar) {
                 temp.push(chars[i]);
             }
-            if (Math.random() < 0.05) {
+            if (Math.random() < 0.1) {
                 temp.push(hiddenChar);
             }
         }
