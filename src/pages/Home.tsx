@@ -36,7 +36,7 @@ const Home: React.FC = () => {
     return (
         <div className="home">
             <div className="header">
-                AI Cloaker
+                AI CLOAKER
             </div>
             <textarea
                 placeholder="Insert text you want to make undetectable here..."
